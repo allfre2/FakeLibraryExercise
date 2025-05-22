@@ -118,8 +118,6 @@ Los postman collections con todos los endpoints y requests estan [aquí](./Resou
 
 ![screenshot8](./Resources/Images/build8.png)
 
-![screenshot9](./Resources/Images/build9.png)
-
 # Youtube Video
 
 [Short Overview](https://www.youtube.com/watch?v=n3zVyaEjWBc)
