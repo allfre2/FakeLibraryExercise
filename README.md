@@ -73,9 +73,9 @@ dotnet ef database update -- --environment Local
 
 Seed Data:
 
-Execute the script located in [seedData.sql](./Resources/Scripts/seedData.sql) from your prefered RDBMS.
-Default credentials are listed in connection ctrings inside configuration files [WebAPI](./WebAPI/) or inside
-the [database docker file](./DatabaseDockerfile)
+Ejecutar el script [seedData.sql](./Resources/Scripts/seedData.sql) con el RDBMS preferido.
+Las credenciales por defecto estan en los connection strings dentro de los archivos de configuración [WebAPI](./WebAPI/) o
+dentro de [database docker file](./DatabaseDockerfile)
 
 **Como la base de datos se genero y se diseño usando "Code First" es muy incomodo probar la diferencia en el performance al remover y restaurar indices**
 
